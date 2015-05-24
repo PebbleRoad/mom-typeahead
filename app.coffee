@@ -44,7 +44,7 @@ app.use (err, req, res, next)->
 		error: {}
 	}
 
-app.set 'port', process.env.PORT || 3000
+app.set 'port', process.env.PORT || 9000
 
 server = app.listen app.get('port'), ()->
   console.log 'express server listening on port ' + server.address().port
