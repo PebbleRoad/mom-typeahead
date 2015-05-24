@@ -1,0 +1,21 @@
+{
+  "name": "mom-typeahead",
+  "version": "0.0.1",
+  "authors": [
+    "Ryan Yacyshyn <ryan@pebbleroad.com>"
+  ],
+  "description": "MOM Type-Ahead Example",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "5.4.3",
+    "typeahead.js": "~0.11.1"
+  }
+}
