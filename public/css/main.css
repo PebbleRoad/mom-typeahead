@@ -8,6 +8,11 @@ input[type="text"] {
   margin-bottom: 4px;
 }
 
+/* line 9, ../scss/views/_home.scss */
+.subtitle {
+  font-size: 13px;
+}
+
 /* line 48, ../scss/views/_typeahead.scss */
 .twitter-typeahead {
   width: 100%;

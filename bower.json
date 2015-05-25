@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "foundation": "5.4.3",
-    "typeahead.js": "0.10.5"
+    "typeahead.js": "0.10.5",
+    "handlebars": "~3.0.3"
   }
 }
