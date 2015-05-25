@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:ryac/adb-lod-prototype.git"
+    "url": "git@github.com:PebbleRoad/mom-typeahead.git"
   },
   "author": "Ryan Yacyshyn <ryan@pebbleroad.com>",
   "license": "ISC",
